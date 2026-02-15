@@ -17,7 +17,7 @@ A real-time bookmark manager built with Next.js, React, Supabase, and Tailwind C
 - **Backend**: Supabase (Auth, Database, Realtime)
 - **Authentication**: Email & Password via Supabase Auth
 - **Database**: PostgreSQL (via Supabase)
-- **Hosting**: Vercel (recommended)
+- **Hosting**: Vercel 
 
 ## Prerequisites
 
